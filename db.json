@@ -1,9 +1,8 @@
-[{
-    "id": 1,
-    "nome": "Rodrigo Barreto"
-},
 {
-    "id": 2,
-    "nome": "Albert Einstein"
+    "pessoas":[
+        {
+            "id": 1,
+            "nome": "Rodrigo Barreto"
+        }
+    ]
 }
-]
